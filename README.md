@@ -12,7 +12,7 @@ Bem-vindo ao repositório do **PetShopNET**, uma solução completa para gerenci
 
 - **Backend:** ASP.NET Core Web API
 - **Frontend:** Blazor Server
-- **Banco de Dados:** SQL Server
+- **Banco de Dados:** PostgreSQL
 - **Autenticação:** JWT para segurança das APIs
 
 ## Instalação
