@@ -22,4 +22,4 @@ Para começar a usar o **PetShopNET**, siga estes passos:
 1. **Clone o repositório**
 
    ```bash
-   git clone https://github.com/seuusuario/petshop-manager.git
+   git clone https://github.com/prof-Jefferson/PetshopNET.git
